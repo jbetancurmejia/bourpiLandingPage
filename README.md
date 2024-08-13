@@ -1,4 +1,4 @@
-#bourpi
+## bourpi
 
 Bienvenido a **bourpi**, una página dedicada a [tu propósito o descripción breve aquí]. Este README te proporcionará toda la información necesaria para comprender, utilizar y contribuir a este proyecto.
 
